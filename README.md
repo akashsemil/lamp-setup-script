@@ -3,10 +3,7 @@ This script will help you setup LAMP (Linux-Apache-MySQL-PHP) stack with specifi
 By default script will install PHP that comes with your distribution.
 You can specify PHP version, just uncomment PHP_VERSION variable and specify the version.
 ## Supported Distribution
-CentOS 7
-CentOS 8
-Ubuntu 18
-Ubuntu 20
+CentOS-7, CentOS-8, Ubuntu-18, Ubuntu 20
 ## Getting Started
 Following command will help you to fetch and execute the script on your local system.
 ### Prerequisites
